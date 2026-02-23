@@ -1,7 +1,5 @@
+from wordslist import words
 import random
-
-# Word list
-words = ["apple", "banana", "cherry", "date", "elderberry"]
 
 # Hangman ASCII Art
 hangman_art = {
